@@ -1,1 +1,2 @@
-Hi This is file1.txt
+Hi This is first line
+This is second line
